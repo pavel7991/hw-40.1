@@ -1,6 +1,5 @@
 import { FormEvent, ChangeEvent } from 'react'
 import { useState } from 'react'
-import PhoneInput from 'react-phone-number-input'
 
 interface FormDataInterface {
   name: string
